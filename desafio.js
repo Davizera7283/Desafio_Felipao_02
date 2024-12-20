@@ -1,5 +1,5 @@
 
-let vitorias = 200
+let vitorias = 31
 let derrotas = 3
 let nivel
 
