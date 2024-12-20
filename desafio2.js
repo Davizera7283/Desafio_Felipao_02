@@ -1,5 +1,5 @@
-let vitorias = 176
-let derrotas = 90
+let vitorias = 5
+let derrotas = 2
 let nivel
 
 let resultado = saldoDeVitorias(vitorias, derrotas)
@@ -38,6 +38,6 @@ function saldoDeVitorias(vitorias, derrotas){
     break
 
     default:
-    console.log("erro")
+    console.log("Erro")
  }
- console.log(nivel)
+ console.log("O Herói tem de saldo de " + resultado + " pontos, e está no nível " + nivel)

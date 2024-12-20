@@ -1,6 +1,6 @@
 
-let vitorias = 31
-let derrotas = 3
+let vitorias = 45
+let derrotas = 19
 let nivel
 
 let resultado = saldoDeVitorias(vitorias, derrotas)
